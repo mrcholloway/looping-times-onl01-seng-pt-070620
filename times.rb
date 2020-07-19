@@ -1,6 +1,5 @@
 "spec_helper"
 "../times.rb"
-def using_times
+def using_7_times
   puts "Wingardium Leviosa"
-  7.times
 end
